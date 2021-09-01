@@ -30,11 +30,12 @@ body {
      padding: 4rem;
  
 }
+
 .add {
         background-color: white;
         width: 60rem;
         margin: auto;
-        padding: 1rem;
+        padding: 1.5rem;
         padding-left: 4rem;
         border-top-left-radius: 0.5rem;
         border-top-right-radius: 0.5rem;
@@ -45,13 +46,36 @@ body {
     background-color: rgb(83, 169, 255);
     color: white;
     border-radius: 0.5rem;
+    border: 2px solid rgb(83, 169, 255);
 }
 .add_s {
     padding: 00.5rem;
     background-color: white;
      color: lightgrey;
      margin-left: 0.5rem;
-     border: 1px solid lightgray;
+     border: 2px solid lightgray;
      border-radius: 0.5rem;
      
+}
+.task_section {
+    background-color:white;
+    width: 60rem;
+    height: 60rem;
+    margin: auto;
+    padding: 4rem;
+    border-top: 4px solid whitesmoke;
+}
+
+.v {
+    color: lightgreen;
+    border: 2px solid lightgreen;
+    border-radius: 100%;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+.editorial {
+    background-color: rgb(83, 169, 255);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
 }
