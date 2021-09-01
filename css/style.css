@@ -4,10 +4,6 @@
     padding: 0;
 }
 
-body {
-  
-    
-}
 /*site header */
 #site_header {
     background-color: white;
@@ -24,6 +20,8 @@ body {
             font-size: 3rem;
             vertical-align: 1rem;         
 }
+/* site header */
+
 /* site main */
 #site_main {
      background-color:whitesmoke;
@@ -91,12 +89,14 @@ li {
     list-style: none;
     padding: 1rem;
 }
+/* /site main */
+
 /* tipo */
 .editorial {
     background-color: rgb(83, 169, 255);
     color: white;
     padding: 0.5rem;
-    border-radius: 1rem;
+    border-radius: 0.8rem;
     font-size: 0.8rem;
 }
 .q1 {
@@ -134,3 +134,4 @@ li {
     border-radius: 0.8rem;
     font-size: 0.7rem;
 }
+/* / tipo */
