@@ -60,7 +60,7 @@ body {
 .task_section {
     background-color:white;
     width: 60rem;
-    height: 60rem;
+    
     margin: auto;
     padding: 4rem;
     border-top: 4px solid whitesmoke;
@@ -73,8 +73,56 @@ body {
     padding-left: 0.3rem;
     padding-right: 0.3rem;
 }
+.x {
+    color: red;
+    border: 2px solid red;
+    border-radius: 100%;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
 .editorial {
     background-color: rgb(83, 169, 255);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+li {
+    list-style: none;
+    padding: 1rem;
+}
+/* tipo */
+.editorial {
+    background-color: rgb(83, 169, 255);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+.q1 {
+    background-color: rgb(148, 86, 230);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+.recruting {
+    background-color: rgb(8, 182, 159);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+.mobile {
+    background-color: rgb(230, 163, 21);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+.website {
+    background-color: rgb(135, 69, 141);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+.sales {
+    background-color: rgb(182, 212, 97);
     color: white;
     padding: 0.5rem;
     border-radius: 1rem;
