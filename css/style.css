@@ -1,15 +1,14 @@
-* { 
+* { font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
 body {
-    background-color:rgb(234, 239, 240);
   
     
 }
-/* header */
+/*site header */
 #site_header {
     background-color: white;
     font-family: 'Poppins', sans-serif;
@@ -24,4 +23,35 @@ body {
     	    display: inline-block;
             font-size: 3rem;
             vertical-align: 1rem;         
+}
+/* site main */
+#site_main {
+     background-color:whitesmoke;
+     padding: 4rem;
+ 
+}
+.add {
+        background-color: white;
+        width: 60rem;
+        margin: auto;
+        padding: 1rem;
+        padding-left: 4rem;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+}
+.add_t {
+    
+    padding: 0.5rem;
+    background-color: rgb(83, 169, 255);
+    color: white;
+    border-radius: 0.5rem;
+}
+.add_s {
+    padding: 00.5rem;
+    background-color: white;
+     color: lightgrey;
+     margin-left: 0.5rem;
+     border: 1px solid lightgray;
+     border-radius: 0.5rem;
+     
 }
