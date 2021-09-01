@@ -97,40 +97,40 @@ li {
     color: white;
     padding: 0.5rem;
     border-radius: 1rem;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 .q1 {
     background-color: rgb(148, 86, 230);
     color: white;
     padding: 0.5rem;
-    border-radius: 1rem;
+    border-radius: 0.8rem;
     font-size: 0.7rem;
 }
 .recruting {
     background-color: rgb(8, 182, 159);
     color: white;
     padding: 0.5rem;
-    border-radius: 1rem;
+    border-radius: 0.8rem;
     font-size: 0.7rem;
 }
 .mobile {
     background-color: rgb(230, 163, 21);
     color: white;
     padding: 0.5rem;
-    border-radius: 1rem;
+    border-radius: 0.8rem;
     font-size: 0.7rem;
 }
 .website {
     background-color: rgb(135, 69, 141);
     color: white;
     padding: 0.5rem;
-    border-radius: 1rem;
+    border-radius: 0.8rem;
     font-size: 0.7rem;
 }
 .sales {
     background-color: rgb(182, 212, 97);
     color: white;
     padding: 0.5rem;
-    border-radius: 1rem;
+    border-radius: 0.8rem;
     font-size: 0.7rem;
 }
